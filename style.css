@@ -1,0 +1,28 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.hero-container {
+  background-image: url(images/header-bg.png);
+  background-size: cover;
+  background-position: center;
+}
+.bio-container {
+  background-image: url(images/biography-bg.png);
+  background-size: cover;
+  background-position: center;
+}
+.work-container {
+  background-image: url(/images/latest-work-bg.png);
+  background-size: cover;
+  background-position: center;
+}
+.heroh1 {
+  color: #ec4c7a;
+  font-weight: 900;
+  letter-spacing: 5px;
+  font-size: 50px;
+}
+.box{
+    background-color: #EC4D82;
+    
+}
